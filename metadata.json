@@ -1,0 +1,10 @@
+{
+  "name": "XRP",
+  "symbol": "XRP",
+  "description": "Inoffizieller Community-Token auf Solana (Demo).",
+  "image": "https://i.ibb.co/hx3175R6/xrplogo.png",
+  "extensions": {
+    "website": "",
+    "twitter": ""
+  }
+}
