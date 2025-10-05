@@ -1,6 +1,7 @@
 {
-  "name": "Solana",
-  "symbol": "SOL",
-  "description": "Solana (SOL) is the native cryptocurrency and ecosystem of a high-performance blockchain network designed for speed, scalability, and low costs, supporting decentralized applications (dApps), DeFi, and NFTs. It achieves its performance through a hybrid Proof of History (PoH) and Proof of Stake (PoS) consensus mechanism, allowing it to process thousands of transactions per second. The SOL coin is used for network governance, transaction processing fees, and staking to secure the network. n",
-  "image": "https://upload.wikimedia.org/wikipedia/en/b/b9/Solana_logo.png"
+  "name": "XRP",
+  "symbol": "XRP",
+  "description": "XRP is a digital asset and native currency of the XRP Ledger, a decentralized, open-source blockchain designed for fast, low-cost, and secure global payments and currency exchanges. While the Ripple company uses XRP for its payment solutions, it does not own the cryptocurrency. XRP functions as a bridge currency to facilitate transactions between different currencies and features a quorum-based consensus protocol for rapid transaction confirmations.  ",
+  "image": "https://altcoinsbox.com/wp-content/uploads/2023/01/xrp-logo.png"
 }
+
